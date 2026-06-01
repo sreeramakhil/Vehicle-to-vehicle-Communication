@@ -519,7 +519,7 @@ Contributions and feedback welcome!
 
 <div align="center">
 
-**Made with ❤️ by Sreerama Khil**
+**Made with ❤️ by Sreeram Akhil**
 
 ⭐ If you find this project useful, please consider giving it a star!
 
